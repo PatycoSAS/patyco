@@ -14,7 +14,7 @@
     'category': 'Account',
 
     # any module necessary for this one to work correctly
-    'depends': ['base','account'],
+    'depends': ['base','account','paty_medios_mag_1007'],
 
     # always loaded
     'data': [
